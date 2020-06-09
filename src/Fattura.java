@@ -22,6 +22,6 @@ public class Fattura {
         return importo;
     }
     double getImportoIvato() {
-        return importo * 1.11;
+        return importo * 1.22;
     }
 }
