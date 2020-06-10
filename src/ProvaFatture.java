@@ -1,6 +1,6 @@
 public class ProvaFatture {
     public static void main(String[] arg) {
-        System.out.println("inizio vers");
+        System.out.println("inizio vers lingua ENG");
         Fattura fattura1 = new Fattura();
         fattura1.setId("A2-2019");
         fattura1.setDescrizione("Prestazione occasionale");
